@@ -3,3 +3,6 @@ Our project aims to create an AI-driven solution for smart cities that enhances 
 
 
 DEMONSTRATION VIDEO: https://drive.google.com/file/d/1FPSaU9j9He9h0vwp9k3XIwoVqm1V282Q/view?usp=drivesdk 
+
+
+PROTOTYPE: https://drive.google.com/file/d/1FYyJQaQ_juXmNcrlwgW4r28KcoR_t6jX/view
